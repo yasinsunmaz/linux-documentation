@@ -1,5 +1,5 @@
 # Linux Command Documentation
-## Bulunan dizin yolunu göster
+### Bulunan dizin yolunu göster
 - pwd
 - Listele
  - ls
