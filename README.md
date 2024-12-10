@@ -1,6 +1,6 @@
 # Linux Command Documentation
-- Bulunan dizin yolunu göster
-  pwd
+## Bulunan dizin yolunu göster
+- pwd
 - Listele
  - ls
  - ls -a --> Gizli nesneleri göster
