@@ -1,16 +1,16 @@
 # Linux Command Documentation
 ### Bulunan dizin yolunu göster
 - pwd
--- Listele
- - ls
- - ls -a --> Gizli nesneleri göster
- - ls -l --> Detaylı alfabetik olarak listeleme
- - ls -lt --> Detaylı tarihi göre listeleme
-- Dizine değiştirme
- cd foldername
- cd .. --> Bİr önceki dizine geri döner
- cd - --> Önceki dizine geri döner
-- Dizin oluştur
+### Listele
+- ls
+- ls -a --> Gizli nesneleri göster
+- ls -l --> Detaylı alfabetik olarak listeleme
+- ls -lt --> Detaylı tarihi göre listeleme
+### Dizine değiştirme
+- cd foldername
+- cd .. --> Bİr önceki dizine geri döner
+- cd - --> Önceki dizine geri döner
+### Dizin oluştur
  mkdir foldername
  mkdir -p folderName/inFolderName --> İç içe klasör oluşturma
 - Dosya oluştur
