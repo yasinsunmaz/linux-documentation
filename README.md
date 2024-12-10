@@ -1,7 +1,7 @@
 # Linux Command Documentation
 ### Bulunan dizin yolunu göster
 - pwd
-- Listele
+-- Listele
  - ls
  - ls -a --> Gizli nesneleri göster
  - ls -l --> Detaylı alfabetik olarak listeleme
