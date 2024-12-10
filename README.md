@@ -1,11 +1,11 @@
 # Linux Command Documentation
 - Bulunan dizin yolunu göster
- pwd
+ - pwd
 - Listele
- ls
- ls -a --> Gizli nesneleri göster
- ls -l --> Detaylı alfabetik olarak listeleme
- ls -lt --> Detaylı tarihi göre listeleme
+ - ls
+ - ls -a --> Gizli nesneleri göster
+ - ls -l --> Detaylı alfabetik olarak listeleme
+ - ls -lt --> Detaylı tarihi göre listeleme
 - Dizine değiştirme
  cd foldername
  cd .. --> Bİr önceki dizine geri döner
