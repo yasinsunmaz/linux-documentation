@@ -1,4 +1,4 @@
-# Linux Command Documentation
+# Linux Command Documentation / Linux Komut Dokümanı
 ### Bulunan dizin yolunu göster
 - pwd
 ### Listele
@@ -48,8 +48,8 @@
 - r --> okuma
 - w --> yazma
 - x --> çalıştırma
-- Kullanımı: chmod -w filename --> Dosyanın yazma iznini kaldırır
-- Kullanımı: chmod +x filename --> Dosyanın çalışma izni verir
+- Kullanım: chmod -w filename --> Dosyanın yazma iznini kaldırır
+- Kullanım: chmod +x filename --> Dosyanın çalışma izni verir
 ### Ekrana yazı yazdırma
 - echo messageDetail
 ### Komut dosyasından çıkma
